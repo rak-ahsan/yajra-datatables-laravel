@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Product;
 use Illuminate\Http\Request;
-use DataTables;
+use Yajra\DataTables\DataTables;
 
 class ProductController extends Controller
 {
@@ -15,8 +15,11 @@ class ProductController extends Controller
             return DataTables::of($data)
                 ->addIndexColumn()
                 ->addColumn('action', function($row){
-                    $btn = '<a href="javascript:void(0)" data-id="' . $row->id . '" class="edit btn btn-primary btn-sm">Edit</a>';
+                    $btn = '<div class= d-flex>';
+                    $btn .= '<a href="javascript:void(0)" data-id="' . $row->id . '" class="edit btn btn-primary btn-sm">Edit</a>';
                     $btn .= ' <a href="javascript:void(0)" data-id="' . $row->id . '" class="delete btn btn-danger btn-sm">Delete</a>';
+                    $btn .= ' <a href="javascript:void(0)" data-id="' . $row->id . '" class="view btn btn-info btn-sm">View</a>';
+                    $btn .= '</div>';
                     return $btn;
                 })
                 ->rawColumns(['action'])
@@ -24,12 +27,13 @@ class ProductController extends Controller
         }
         return view('products.index');
     }
-    
+
+
 
     public function store(Request $request)
     {
         Product::updateOrCreate(['id' => $request->product_id],
-            ['name' => $request->name, 'description' => $request->description, 'price' => $request->price]);        
+            ['name' => $request->name, 'description' => $request->description, 'price' => $request->price]);
         return response()->json(['success'=>'Product saved successfully.']);
     }
 
