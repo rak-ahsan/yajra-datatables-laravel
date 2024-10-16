@@ -63,4 +63,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## Licen
 The Laravel framework is open-sourced soft
-The Laravel fr
+The Laravel f
