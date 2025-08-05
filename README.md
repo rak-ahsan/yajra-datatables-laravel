@@ -2,7 +2,7 @@
 <align="center htpsl//githu.com/laravel/almework/to>< s=h/github.com/laravel/fewk/wkwtets/adgesvg" alt=" Stus">
 <a"t://packagist.org/pckaes
 aelfewor"> sc="https:/img.shields.io/pakil/dt/laravell/framework" al="Total Downloads></a
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+< href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
