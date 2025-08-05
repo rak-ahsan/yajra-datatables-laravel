@@ -1,7 +1,7 @@
 <p align="center"><a hrf"https://laravel.com" taret="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup5%20SVG/2%20MYK/1%20Fll%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt=Larvel Logo"></a></p
 <align="center htpsl//githu.com/laravel/almework/to>< s=h/github.com/laravel/fewk/wkwtets/adgesvg" alt=" Stus">
 <a"t://packagist.org/pckaes
-aelfewor"> sc="https:/img.shields.io/pakisl/dt/laravell/framework" al="Total Downloads></a
+aelfewor"> sc="https:/img.shields.io/pakil/dt/laravell/framework" al="Total Downloads></a
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
