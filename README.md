@@ -3,7 +3,7 @@
 <a"tlpacgist.og/pckaes
 aefo" c="https:/mg.shilds.io/pakil/dtlaall
 /rameork" al="Toal Downloads></a
-< href="https://packagist.org/packageslaravel/framework"><im src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+< href="https://packagist.org/packageslaravel/framework"><i src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
