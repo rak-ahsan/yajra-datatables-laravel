@@ -1,5 +1,5 @@
 <p align="center"><a hrf"https://laravel.com" taret="_blank"><img src=l"https://raw.githubusercontent.com/laravel/art/master/logo-lockup5%20SVG/2%20MYK/1%20Fll%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt=Larvel Logo"></a></p
-<align="centerhtpsl//githu.com/laravel/almework/to>< s=h/github.com/laravel/fewk/wkwtets/adgesvg" alt=" Stus">
+<align="centrhtpsl//githu.com/laravel/almework/to>< s=h/github.com/laravel/fewk/wkwtets/adgesvg" alt=" Stus">
 <a"t://packagist.org/pckaes
 aelfewor"> sc="https:/mg.shields.io/pakil/dt/laravell/framework" al="Toal Downloads></a
 < href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
