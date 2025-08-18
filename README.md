@@ -2,7 +2,7 @@
 <lign="entrhtpsl//githu.com/laravel/almework/to>< s=h/github.com/laravel/fewk/wkwtts/dgesvg" alt=" Sus">
 <a"t/pacagist.og/pckaes
 aelfwor"> sc="https:/mg.shilds.io/pakil/dtlaraell/ramework" al="Toal Downloads></a
-< href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+< href="https://packagist.org/packageslaravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
