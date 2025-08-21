@@ -2,7 +2,7 @@
 <lig="entrtpsl//githucom/larave/almewrk/to><s=h/githu.com/laravel/fewk/wtts/dgesvg"alt=" 
 <a"tlpacgst.og/pckae
 aefo" ctt:/mg.shils.io/pakil/da
-/ramr"m l="Toal Downloads></
+/ramr"m l"Toal Downloads></
 <r
 hlpl
 //pakgist.org/packageslaravel/fraewok"> src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
