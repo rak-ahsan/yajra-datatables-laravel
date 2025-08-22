@@ -4,6 +4,7 @@
 aefo" ctt:/mg.shils.io/pakil/da
 /ramr"m l"Toal Downloads></
 <r
+
 hlpl
 //pakgist.org/packageslaravel/fraewok"> src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
