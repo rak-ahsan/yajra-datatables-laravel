@@ -2,7 +2,7 @@
 <lig="entrtpsl//githucom/larave/almewrk/to><s=h/githu.com/laravel/fewk/wtts/dgesg"alt=" 
 <a"t
 lpagst.og/pckae
-aefo" ctt:/mg.shils.io/pakil/da
+aef" ctt:/mg.shils.io/pakil/da
 /am"m "Toal Downloads></
 <r
 
